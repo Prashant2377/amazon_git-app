@@ -1,3 +1,3 @@
-class Example{}[D
-
-
+class Example{
+ public void get(){};
+}
